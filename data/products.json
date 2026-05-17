@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Burger",
+    "price": 35000,
+    "description": "Вкусный бургер",
+    "photo": "https://picsum.photos/500",
+    "category_id": 1
+  },
+  {
+    "name": "Lavash",
+    "price": 28000,
+    "description": "Горячий лаваш",
+    "photo": "https://picsum.photos/501",
+    "category_id": 2
+  }
+]

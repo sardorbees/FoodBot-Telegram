@@ -1,0 +1,38 @@
+[
+  {
+    "category": {
+      "id": 1,
+      "name": "Бургеры",
+      "emoji": "🍔"
+    },
+    "products": [
+      {
+        "name": "Burger Classic",
+        "price": 35000,
+        "description": "Сочный бургер",
+        "photo": "https://picsum.photos/500"
+      },
+      {
+        "name": "Burger Cheese",
+        "price": 42000,
+        "description": "С сыром",
+        "photo": "https://picsum.photos/501"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": 2,
+      "name": "Лаваш",
+      "emoji": "🌯"
+    },
+    "products": [
+      {
+        "name": "Lavash Chicken",
+        "price": 28000,
+        "description": "Куриный лаваш",
+        "photo": "https://picsum.photos/502"
+      }
+    ]
+  }
+]
