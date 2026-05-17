@@ -26,7 +26,7 @@ FREE_DELIVERY_FROM: int = int(
 
 SUPPORT_USERNAME: str = os.getenv(
     "SUPPORT_USERNAME",
-    "https://t.me/ali_equity"
+    "support"
 )
 
 # Payment
